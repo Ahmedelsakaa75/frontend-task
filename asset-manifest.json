@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/frontend-task.git/static/css/main.92db6ecd.css",
-    "main.js": "/frontend-task.git/static/js/main.f93bb085.js",
-    "static/js/453.f39dbd34.chunk.js": "/frontend-task.git/static/js/453.f39dbd34.chunk.js",
-    "index.html": "/frontend-task.git/index.html",
-    "main.92db6ecd.css.map": "/frontend-task.git/static/css/main.92db6ecd.css.map",
-    "main.f93bb085.js.map": "/frontend-task.git/static/js/main.f93bb085.js.map",
-    "453.f39dbd34.chunk.js.map": "/frontend-task.git/static/js/453.f39dbd34.chunk.js.map"
+    "main.css": "/frontend-task/static/css/main.92db6ecd.css",
+    "main.js": "/frontend-task/static/js/main.48b280f9.js",
+    "static/js/453.f39dbd34.chunk.js": "/frontend-task/static/js/453.f39dbd34.chunk.js",
+    "index.html": "/frontend-task/index.html",
+    "main.92db6ecd.css.map": "/frontend-task/static/css/main.92db6ecd.css.map",
+    "main.48b280f9.js.map": "/frontend-task/static/js/main.48b280f9.js.map",
+    "453.f39dbd34.chunk.js.map": "/frontend-task/static/js/453.f39dbd34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92db6ecd.css",
-    "static/js/main.f93bb085.js"
+    "static/js/main.48b280f9.js"
   ]
 }
